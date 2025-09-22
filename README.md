@@ -35,7 +35,7 @@
 
 ### **SAR Traget Classification Datasets**
 
-| Year | Publication  | datasets    | title                                                                                                                                                                                                                                                                                                                                                                | Download                                                                                                   |
+| Year | Publication | Datasets  | Title                                                                                                                                                                                                                                                                                                                                                               | Download                                                                                                   |
 |------|--------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | 1995 |              | MSTAR       |                                                                                                                                                                                                                                                                                                                                                                      | [MSTAR](https://www.sdms.afrl.af.mil/index.php?collection=mstar "MSTAR")                                   |
 | 2010 | SPIE         | CV Domes    | [Civilian vehicle radar data domes ](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7699/76990P/Civilian-vehicle-radar-data-domes/10.1117/12.850151.short "Civilian vehicle radar data domes ")                                                                                                                                                   | [CV Domes](https://www.sdms.afrl.af.mil/index.php?collection=cv_dome "CV Domes")                           |
@@ -58,7 +58,7 @@
 
 ### **SAR Target Detection Datasets**
 
-| Year | Publication  | datasets         | title                                                                                                                                                                                                                                                                                                             | Download                                                                                                                                           |
+| Year | Publication | Datasets  | Title                                                                                                                                                                                                                                                                                                            | Download                                                                                                                                           |
 |------|--------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2005 |              | miniSAR          |                                                                                                                                                                                                                                                                                                                   | [miniSAR](https://www.sandia.gov/radar/pathfinder-radar-isr-and-synthetic-aperture-radar-sar-systems/complex-data/  "miniSAR")                     |
 | 2015 |              | FARADSAR         |                                                                                                                                                                                                                                                                                                                   | [FARADSAR](https://www.sandia.gov/radar/pathfinder-radar-isr-and-synthetic-aperture-radar-sar-systems/complex-data/  "FARADSAR")                   |
@@ -92,7 +92,7 @@
 
 ### **Traditional Methods for SAR Target Classification**
 
-| year | publication | Methods        | title                                                                                                                                                                                                                                                                                           |
+| Year | Publication | Methods  | Title                                                                                                                                                                                                                                                                                          |
 |------|-------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1983 | IEEE TPAMI  |                | [Markov Random Field Texture Models](https://ieeexplore.ieee.org/document/4767341/ "Markov Random Field Texture Models")                                                                                                                                                                        |
 | 1986 | IEEE TGRS   |                | [Textural information in SAR images](https://ieeexplore.ieee.org/abstract/document/4072450/ "Textural information in SAR images")                                                                                                                                                               |
@@ -124,7 +124,7 @@
 
 ### **Deep Learning Methods for SAR Target Classification**
 
-| year | publication | Methods        | Title                                                                                                                                     | code |
+| Year | Publication | Methods  | Title                                                                                                                                    | code |
 |------|-------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------|------|
 | 2016 | IEEE TGRS   | A-ConvNets     | [Target classification using the deep convolutional networks for SAR images](https://ieeexplore.ieee.org/abstract/document/7460942/ "Target classification using the<br>deep convolutional networks for SAR images")                                                             | [A-ConvNets](https://github.com/jangsoopark/AConvNet-pytorch "A-ConvNets")    |
 | 2017 | IEEE TGRS   | CV-CNN         | [Complex-valued convolutional neural network and its application in polarimetric SAR image classification ](https://ieeexplore.ieee.org/abstract/document/8039431/ "Complex-valued convolutional neural network and its application in polarimetric SAR image classification ")                                 |[ CV-CNN ](https://github.com/fudanxu/CV-CNN " CV-CNN ")    |
@@ -166,7 +166,7 @@
 
 ### **Traditional Methods for SAR Target Detection**
 
-| year | publication | Methods    | title                                                                                                                          |
+| Year | Publication | Methods  | Title                                                                                                                          |
 |------|-------------|------------|--------------------------------------------------------------------------------------------------------------------------------|
 | 1966 | IEEE SAP    |            | [Adaptive detection in clutter](https://ieeexplore.ieee.org/abstract/document/4043676/ "Adaptive detection in clutter")                                                                                                  |
 | 1968 | Rca Review  |            | [Adaptive detection mode with threshold control as a function of spatially sampled clutter-level estimates](https://cir.nii.ac.jp/crid/1573950399799222400 "Adaptive detection mode with threshold control as a function of spatially sampled clutter-level estimates")                      |
@@ -203,7 +203,7 @@
 
 ### **Deep Learning Methods for SAR Target Detection**
 
-| year | publication  | Methods         | title                                                                                                                               | code |
+| Year | Publication | Methods  | Title                                                                                                                                | Code |
 |------|--------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------|------|
 | 2017 | BIGSARDATA   | Improved FRCNN  | [Ship detection in SAR images based on an improved Faster R-CNN](https://ieeexplore.ieee.org/abstract/document/8124934/ "Ship detection in SAR images based on an improved Faster R-CNN")                                                                      |      |
 | 2018 | IEEE GRSL    | SER faster RCNN | [Squeeze and excitation rank faster R-CNN for ship detection in SAR images](https://ieeexplore.ieee.org/abstract/document/8570858/ "Squeeze and excitation rank faster R-CNN for ship detection in SAR images")                                                           |      |
@@ -251,7 +251,7 @@
 
 ### **SAR Foundation Models**
 
-| year | publication       | Methods    | title                                                                                                             | Code |
+| Year | Publication | Methods  | Title                                                                                                            | Code |
 |------|-------------------|------------|-------------------------------------------------------------------------------------------------------------------|------|
 | 2023 | IET               | SARViT     | [SARViT: vision transformer for SAR image interpretation with efficient model compression for time-real processing](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.1228 "SARViT: vision transformer for SAR image interpretation with efficient model compression for time-real processing") |      |
 | 2025 | IEEE TIP          | SARATR-X   | [SARATR-X: Toward Building a Foundation Model for SAR Target Recognition ](https://ieeexplore.ieee.org/abstract/document/10856784/ "SARATR-X: Toward Building a Foundation Model for SAR Target Recognition ")                                          |  [SARATR-X](https://github.com/waterdisappear/SARATR-X "SARATR-X")    |
@@ -261,13 +261,33 @@
 
 
 
+### **Limited Data**
+
+| Year | Publication | Methods  | Title                                                                                                                                  | Code |
+|------|-------------|----------|----------------------------------------------------------------------------------------------------------------------------------------|------|
+| 2023 | IEEE TGRS   | Mada-SGD | [Few-shot SAR target recognition through meta-adaptive hyperparameters learning for fast adaptation](https://ieeexplore.ieee.org/abstract/document/10287966/ "Few-shot SAR target recognition through meta-adaptive hyperparameters learning for fast adaptation")                                     |  [Mada-SGD](https://github.com/Crush0416/Mada-SGD "Mada-SGD")    |
+| 2023 | IEEE TGRS   | DCBES    | [Density coverage-based exemplar selection for incremental SAR automatic target recognition](https://ieeexplore.ieee.org/abstract/document/10177252/ "Density coverage-based exemplar selection for incremental SAR automatic target recognition")                                             |      |
+| 2024 | IEEE TGRS   | MBEN-BC  | [A multi-branch embedding network with Bi-classifier for few-shot ship classification of SAR images](https://ieeexplore.ieee.org/abstract/document/10755159/ "A multi-branch embedding network with Bi-classifier for few-shot ship classification of SAR images")                                     |      |
+| 2025 | IEEE TAES   | SAR-INR  | [Implicit neural representation with imaging geometry for sar target recognition](https://ieeexplore.ieee.org/abstract/document/10878419/ "Implicit neural representation with imaging geometry for sar target recognition")                                                        |      |
+| 2023 | IEEE TGRS   | HEIEN    | [Few-shot classincremental SAR target recognition based on hierarchical embedding and incremental evolutionary network](https://ieeexplore.ieee.org/abstract/document/10050208/ "Few-shot classincremental SAR target recognition based on hierarchical embedding and incremental evolutionary network")                  |      |
+| 2025 | IEEE TGRS   | ACRM     | [Target-aspect domain continual learning for sar target recognition](https://ieeexplore.ieee.org/abstract/document/10870348/ "Target-aspect domain continual learning for sar target recognition")                                                                     |      |
+| 2024 | IEEE TAES   | ODF      | [Few-shot class-incremental SAR target recognition via orthogonal distributed features](https://ieeexplore.ieee.org/abstract/document/10636068/ "Few-shot class-incremental SAR target recognition via orthogonal distributed features")                                                  |      |
+| 2025 | IEEE TAES   |          | [Class-incremental SAR ship detection and classification via context-robust exemplar replay and multigranularity knowledge distillation](https://ieeexplore.ieee.org/abstract/document/10925509/ "Class-incremental SAR ship detection and classification via context-robust exemplar replay and multigranularity knowledge distillation") |      |
+| 2025 | IEEE TAES   |          | [Reciprocal point learning network with large electromagnetic kernel for SAR open-set recognition](https://ieeexplore.ieee.org/abstract/document/11008834/ "Reciprocal point learning network with large electromagnetic kernel for SAR open-set recognition")                                       |      |
+| 2025 | IEEE Jstars |          | [A Comprehensive Framework for Out-of-Distribution Detection and OpenSet Recognition in SAR Targets](https://ieeexplore.ieee.org/abstract/document/11037723/ "A Comprehensive Framework for Out-of-Distribution Detection and OpenSet Recognition in SAR Targets")                                     |      |
+| 2025 | IEEE Jstars | GLGE     | [Combining Local Electromagnetic Scattering and Global Structure Features for SAR Open Set Recognition](https://ieeexplore.ieee.org/abstract/document/10994298/ "Combining Local Electromagnetic Scattering and Global Structure Features for SAR Open Set Recognition")                                  |      |
+| 2024 | IEEE Jstars | OSAD     | [OSAD: Open-set aircraft detection in SAR images ](https://ieeexplore.ieee.org/abstract/document/10815610/ "OSAD: Open-set aircraft detection in SAR images ")                                                                                       |      |
+| 2024 | ISPRS JPRS  |     EBRS     | [Entropy-Based re-sampling method on SAR class imbalance target detection](https://www.sciencedirect.com/science/article/pii/S0924271624000649 "Entropy-Based re-sampling method on SAR class imbalance target detection")                                                               |  [EBRS](https://github.com/Phoenix0qi/Yolov5-entropy-balance/tree/master "EBRS")    |
+| 2024 | IEEE TGRS   |          | [SAR ship detection based on explainable evidence learning under intraclass imbalance](https://ieeexplore.ieee.org/abstract/document/10459331/ "SAR ship detection based on explainable evidence learning under intraclass imbalance")                                                   |      |
+| 2025 | PR          | SCDQ     | [Supervised contrastive deep Q-Network for imbalanced radar automatic target recognition](https://www.sciencedirect.com/science/article/pii/S003132032401015X "Supervised contrastive deep Q-Network for imbalanced radar automatic target recognition")                                                |      |
+
 
 
 
 
 ### **Domain Adaption**
 
-| year | publication | Methods     | title                                                                                                                               | code |
+| Year | Publication | Methods  | Title                                                                                                                               | Code |
 |------|-------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------|------|
 | 2023 | IEEE TGRS   | IDA         | [An imbalanced discriminant alignment approach for domain adaptive SAR ship detection](https://ieeexplore.ieee.org/abstract/document/10214093/ "An imbalanced discriminant alignment approach for domain adaptive SAR ship detection")                                                | [IDA](https://github.com/Lab-PANbin/ida "IDA")     |
 | 2023 | ISPRS JPRS  |             |[ Cross-scene target detection based on feature adaptation and uncertainty-aware pseudo-label learning for high resolution SAR images](https://www.sciencedirect.com/science/article/pii/S0924271623001260 " Cross-scene target detection based on feature adaptation and uncertainty-aware pseudo-label learning for high resolution SAR images") |      |
