@@ -59,3 +59,49 @@
 | MATD        | [Multiangle SAR dataset construction of aircraft targets based on angle interpolation simulation ](https://radars.ac.cn/en/article/doi/10.12000/JR21193 "Multiangle SAR dataset construction of aircraft targets based on angle interpolation simulation ")                      | J. of Radars | 2022 | [MATD](https://www.radars.ac.cn/web/data/getData?newsColumnId=1c9a6287-4763-4f94-889e-156f50aca946 "MATD")        |
 | SAR-ACD     | [SCAN: Scattering Characteristics Analysis Network for Few-Shot Aircraft Classification in High-Resolution SAR Images](https://ieeexplore.ieee.org/abstract/document/9754573 "SCAN: Scattering Characteristics Analysis Network for Few-Shot Aircraft Classification in HighResolution SAR Images") | IEEE TGRS    | 2022 | [SAR-ACD ](https://github.com/AICyberTeam/SAR-ACD "SAR-ACD ")    |
 | ATRNet-STAR | [ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild](https://arxiv.org/abs/2501.13354 "ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild")                     | arXiv        | 2025 | [ATRNet-STAR](https://github.com/waterdisappear/ATRNet-STAR?tab=readme-ov-file "ATRNet-STAR") |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### **SAR Target Detection Datasets**
+
+| datasets         | title                                                                                                                     | Publication  | Year | Download         |
+|------------------|---------------------------------------------------------------------------------------------------------------------------|--------------|------|------------------|
+| miniSAR          |                                                                                                                           |              | 2005 | [miniSAR](https://www.sandia.gov/radar/pathfinder-radar-isr-and-synthetic-aperture-radar-sar-systems/complex-data/  "miniSAR")          |
+| FARADSAR         |                                                                                                                           |              | 2015 | [FARADSAR](https://www.sandia.gov/radar/pathfinder-radar-isr-and-synthetic-aperture-radar-sar-systems/complex-data/  "FARADSAR")         |
+| SSDD             | [Ship detection in SAR images based on an improved Faster R-CNN ](https://ieeexplore.ieee.org/abstract/document/8124934 "Ship detection in SAR images based on an improved Faster R-CNN ")                                                           | BIGSARDATA   | 2017 | [SSDD](https://www.cnblogs.com/duzetao/p/14396713.html#:~:text=%E9%93%BE%E6%8E%A5,%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%81%E6%98%AF12345qwert ")             |
+| AIR-SARSHIP1.0   | [AIR-SARShip-1.0: High-resolution SAR ship detection dataset ](https://radars.ac.cn/en/article/doi/10.12000/JR19097?viewType=HTML "AIR-SARShip-1.0: High-resolution SAR ship detection dataset ")                                                              | J. of Radars | 2019 | [AIR-SARSHIP1.0 ](http://radars.ie.ac.cn/web/data/getData?dataType=SARDataset 或 https://aistudio.baidu.com/datasetdetail/29238  "AIR-SARSHIP1.0 ")  |
+| AIR-SARSHIP2.0   |  [ Paper](https://radars.ac.cn/web/data/getData?newsColumnId=74fe223a-0b01-4830-8d99-1ba276e67ad8 " Paper")                                                                                                                        |              | 2020 | [AIR-SARSHIP2.0](http://radars.ie.ac.cn/web/data/getData?dataType=SARDataset 或 https://aistudio.baidu.com/datasetdetail/112784  "AIR-SARSHIP2.0")   |
+| SAR-SHIP-DATASET | [A SAR dataset of ship detection for deep learning under complex backgrounds](https://www.mdpi.com/2072-4292/11/7/765?ref=https://githubhelp.com)                                               | RS           | 2019 | [SAR-SHIP-DATASET](https://github.com/CAESAR-Radi/SAR-Ship-Dataset  "SAR-SHIP-DATASET") |
+| LS-SSDD-v1.0     | [LS-SSDD-v1. 0: A deep learning dataset dedicated to small ship detection from large-scale Sentinel-1 SAR images](https://www.mdpi.com/2072-4292/12/18/2997 "LS-SSDD-v1. 0: A deep learning dataset dedicated to small ship detection from large-scale Sentinel-1 SAR images")           | RS           | 2020 | [LS-SSDD-v1.0 ](https://github.com/zhangfx123/LS-SSDD-v1.0-OPEN  "LS-SSDD-v1.0 ")    |
+| HRSID            | [HRSID: A high-resolution SAR images dataset for ship detection and instance segmentation](https://ieeexplore.ieee.org/abstract/document/9127939 "HRSID: A high-resolution SAR images dataset for ship detection and instance segmentation")                                  | IEEE Access  | 2020 |[ HRSID ](https://github.com/chaozhong2010/HRSID  " HRSID ")           |
+| SRSDD-v1.0       |[ SRSDD-v1. 0: A high-resolution SAR rotation ship detection dataset    ](https://www.mdpi.com/2072-4292/13/24/5104 " SRSDD-v1. 0: A high-resolution SAR rotation ship detection dataset    ")                                                    | RS           | 2021 | [SRSDD-v1.0](https://github.com/HeuristicLU/SRSDD-V1.0  "SRSDD-v1.0")       |
+| Official SSDD    | [SAR ship detection dataset (SSDD): Official release and comprehensive data analysis](https://www.mdpi.com/2072-4292/13/18/3690 "SAR ship detection dataset (SSDD): Official release and comprehensive data analysis")                                       | RS           | 2021 | [Official SSDD](https://github.com/TianwenZhang0825/Official-SSDD  "Official SSDD")    |
+| DSSDD            | [A dual-polarimetric SAR ship detection dataset and a memory-augmented autoencoder-based detection method](https://www.mdpi.com/1424-8220/21/24/8478 "A dual-polarimetric SAR ship detection dataset and a memory-augmented autoencoder-based detection method")                 | Sensors      | 2021 | [DSSDD](https://github.com/liyiniiecas/A_Dual-polarimetric_SAR_Ship_Detection_Dataset   "DSSDD")            |
+| RSDD-SAR         | [RSDD-SAR: Rotated ship detection dataset in SAR images](https://radars.ac.cn/en/article/doi/10.12000/JR22007 "RSDD-SAR: Rotated ship detection dataset in SAR images")                                                                    | J. of Radars | 2022 | [RSDD-SAR](https://github.com/makabakasu/RSDD-SAR-OPEN  "RSDD-SAR")         |
+| SADD             | [SEFEPNet: Scale expansion and feature enhancement pyramid network for SAR aircraft detection with small sample dataset](https://ieeexplore.ieee.org/abstract/document/9761751 "SEFEPNet: Scale expansion and feature enhancement pyramid network for SAR aircraft detection with small sample dataset")    | IEEE Jstars  | 2022 | [SADD ](https://github.com/hust-rslab/SAR-aircraft-data  "SADD ")            |
+| MSAR             | [CRTransSar: A visual transformer based on contextual joint representation learning for SAR ship detection](https://www.mdpi.com/2072-4292/14/6/1488 "CRTransSar: A visual transformer based on contextual joint representation learning for SAR ship detection")                 | RS           | 2022 | [MSAR](https://radars.ac.cn/web/data/getData?dataType=MSAR  "MSAR")             |
+| SAR-AIRcraft1.0  | [SAR-AIRcraft-1.0: High-resolution SAR aircraft detection and recognition dataset](https://radars.ac.cn/en/article/doi/10.12000/JR23043 "SAR-AIRcraft-1.0: High-resolution SAR aircraft detection and recognition dataset")                                          | J. of Radars | 2023 | [SAR-AIRcraft1.0 ](https://aistudio.baidu.com/datasetdetail/312407  "SAR-AIRcraft1.0 ") |
+| SIVED            | [SIVED: A SAR image dataset for vehicle detection based on rotatable bounding box](https://www.mdpi.com/2072-4292/15/11/2825 "SIVED: A SAR image dataset for vehicle detection based on rotatable bounding box")                                          | RS           | 2023 | [SIVED](https://github.com/CAESAR-Radi/SIVED  "SIVED")            |
+| OGSOD            | [Category-oriented localization distillation for sar object detection and a unified benchmark ](https://ieeexplore.ieee.org/abstract/document/10168956/ "Category-oriented localization distillation for sar object detection and a unified benchmark ")                            | IEEE TGRS    | 2023 | [OGSOD](https://github.com/mmic-lcl/Datasets-and-benchmark-code  "OGSOD")            |
+| SARDet-100k      | [SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e7eb8128eb26eafbe901348df1dbacdc-Abstract-Conference.html "SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection")                               | NeurIPS      | 2024 | [SARDet-100k](https://github.com/zcablii/SARDet_100K  "SARDet-100k")      |
+| FAIR-CSAR        | [FAIR-CSAR: A Benchmark Dataset for Fine-grained Object Detection and Recognition based on Single Look Complex SAR Images](https://ieeexplore.ieee.org/abstract/document/10806766/ "FAIR-CSAR: A Benchmark Dataset for Fine-grained Object Detection and Recognition based on Single Look Complex SAR Images") | IEEE TGRS    | 2024 | [FAIR-CSAR](https://radars.ac.cn/web/data/getData?dataType=FAIR_CSAR  "FAIR-CSAR")        |
+| RSAR             | [RSAR: Restricted state angle resolver and rotated sar benchmark](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_RSAR_Restricted_State_Angle_Resolver_and_Rotated_SAR_Benchmark_CVPR_2025_paper.html "RSAR: Restricted state angle resolver and rotated sar benchmark")                                                           | CVPR         | 2025 | [RSAR ](https://github.com/zhasion/RSAR  "RSAR ")            |
