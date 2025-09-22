@@ -265,6 +265,23 @@
 
 
 
+### **Domain Adaption**
+
+| year | publication | Methods     | title                                                                                                                               | code |
+|------|-------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------|------|
+| 2023 | IEEE TGRS   | IDA         | [An imbalanced discriminant alignment approach for domain adaptive SAR ship detection](https://ieeexplore.ieee.org/abstract/document/10214093/ "An imbalanced discriminant alignment approach for domain adaptive SAR ship detection")                                                | [IDA](https://github.com/Lab-PANbin/ida "IDA")     |
+| 2023 | ISPRS JPRS  |             |[ Cross-scene target detection based on feature adaptation and uncertainty-aware pseudo-label learning for high resolution SAR images](https://www.sciencedirect.com/science/article/pii/S0924271623001260 " Cross-scene target detection based on feature adaptation and uncertainty-aware pseudo-label learning for high resolution SAR images") |      |
+| 2023 | IEEE TGRS   | MMAN        | [A cross-modality feature transfer method for target detection in SAR images](https://ieeexplore.ieee.org/abstract/document/10207899/ "A cross-modality feature transfer method for target detection in SAR images")                                                         |      |
+| 2024 | IEEE TGRS   | PITM      | [Domain adaptive oriented object detection from optical to SAR images](https://ieeexplore.ieee.org/abstract/document/10793425/ "Domain adaptive oriented object detection from optical to SAR images")                                                                |   [PITM ](https://github.com/Hailiang-0109/PITM "PITM ")    |
+| 2024 | IEEE TGRS   | OptiSAR-Net | [OptiSAR-Net: A Cross-Domain Ship Detection Method for Multi-Source Remote Sensing Data](https://ieeexplore.ieee.org/abstract/document/10757443/ "OptiSAR-Net: A Cross-Domain Ship Detection Method for Multi-Source Remote Sensing Data")                                              | [OptiSAR-Net](https://github.com/SCNU-RISLAB/OptiSAR-Net "OptiSAR-Net")     |
+| 2025 | IEEE TGRS   | MFJA        | [MFJA: Unsupervised Domain Adaptation Based on Multi-Modal Feature Fusion and Global-Local Joint Alignment for SAR ATR ](https://ieeexplore.ieee.org/abstract/document/11039777/ "MFJA: Unsupervised Domain Adaptation Based on Multi-Modal Feature Fusion and Global-Local Joint Alignment for SAR ATR ")              |      |
+| 2025 | IEEE TGRS   |             | [Cross-sensor SAR image target detection based on dynamic feature discrimination and center-aware calibration](https://ieeexplore.ieee.org/abstract/document/10962255/ "Cross-sensor SAR image target detection based on dynamic feature discrimination and center-aware calibration")                        |      |
+| 2025 | ISPRS JPRS  | SAFA-MAO    | [Simulation-aided similarity-aware feature alignment with meta-adaption optimization for SAR ATR under extended operation conditions ](https://www.sciencedirect.com/science/article/pii/S0924271625000322 "Simulation-aided similarity-aware feature alignment with meta-adaption optimization for SAR ATR under extended operation conditions ")|   [ SAFA-MAO](https://github.com/ShShann/SA2FA-MAO " SAFA-MAO")  |
+| 2025 | IEEE Jstars | CDFS-SAR    | [Learning From Natural Images in FewShot SAR Target Classification ](https://ieeexplore.ieee.org/abstract/document/10946144/ "Learning From Natural Images in FewShot SAR Target Classification ")                                                                  |      |
+
+
+
+
 
 
 
