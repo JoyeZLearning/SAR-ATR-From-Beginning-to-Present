@@ -4,7 +4,7 @@
 
 # 😍 **Fifty Years of SAR ATR: The Road Forward**
 
-% Yongxiang Liu* (刘永祥), **Jie Zhou (周洁)**, Li Liu* (刘丽), Weijie Li (李玮杰), Bowen Peng (彭渤文), Yafei Song (宋娅菲), Gangyao Kuang (匡刚要), Xiang Li* (黎湘)
+<!--  Yongxiang Liu* (刘永祥), **Jie Zhou (周洁)**, Li Liu* (刘丽), Weijie Li (李玮杰), Bowen Peng (彭渤文), Yafei Song (宋娅菲), Gangyao Kuang (匡刚要), Xiang Li* (黎湘) -->
 
 ![History of SAR ATR_01](https://github.com/user-attachments/assets/f0ee8961-3977-4f52-811b-c515f8ec31ac)
 
