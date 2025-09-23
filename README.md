@@ -334,7 +334,7 @@ An evolutionary tree of SAR ATR technology from the 1990s to present, organized 
 
 
 #### **Acknowledgements**
-Thanks to Ziyang Lin and Pinyi Huang for inspiring me to create this GitHub repo and helping refine it, respctgively.
+Thanks to Ziyang Lin and Pinyi Huang for inspiring me to create this GitHub repo and helping refine it, respectively.
 
 
 
