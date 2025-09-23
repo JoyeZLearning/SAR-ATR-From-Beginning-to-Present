@@ -17,7 +17,7 @@
 - Continuously updating. Welcome to join!
 
 
-### **🛖 A collection of papers, datasets, benchmarks, code, and pre-trained weights for synthetic aperture radar automatic target recognition (SAR ATR).**
+## **🛖 A collection of papers, datasets, benchmarks, code, and pre-trained weights for synthetic aperture radar automatic target recognition (SAR ATR).**
 
 
 Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource on SAR image interpretations!🥰
@@ -28,7 +28,7 @@ Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource o
 
 - [**Summary of Surveys in SAR ATR**](#summary-surveys-in-sar-atr)
 - [**SAR Target Datasets**](#sar-target-datasets)
-  - [SAR Traget Classification Datasets](#one-sar-target-classification-datasets)
+  - [SAR Target Classification Datasets](#one-sar-target-classification-datasets)
   - [SAR Target Detection Datasets](#two-sar-target-detection-datasets)
 - [**SAR Target Classification**](#sar-target-classification)
   - [Traditional Methods for SAR Target Classification](#traditional-methods-for-sar-target-classification)
