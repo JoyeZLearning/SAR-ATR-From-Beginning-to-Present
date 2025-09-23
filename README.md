@@ -3,8 +3,8 @@
 
 ## Table of Contents
 
-- [**Summary surveys in SAR ATR**](#summary-surveys-in-sar-atr)
-- [**SAR Target datasets**](#sar-target-datasets)
+- [**Summary of Surveys in SAR ATR**](#summary-surveys-in-sar-atr)
+- [**SAR Target Datasets**](#sar-target-datasets)
   - [SAR Traget Classification Datasets](#one-sar-target-classification-datasets)
   - [SAR Target Detection Datasets](#two-sar-target-detection-datasets)
 - [**Traditional Methods for SAR Target Classification**](#traditional-methods-for-sar-target-classification)
@@ -21,7 +21,7 @@
 
 
 
-### **Summary surveys in SAR ATR**
+### **Summary of Surveys in SAR ATR**
 
 
 | Year | Venue             | Topic                                             | Scope                   | Survey title                                                                                                                       |
