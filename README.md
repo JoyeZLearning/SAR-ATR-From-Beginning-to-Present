@@ -17,10 +17,10 @@
 - Continuously updating. Welcome to join!
 
 
-### **🛖A collection of papers, datasets, benchmarks, code, and pre-trained weights for synthetic aperture radar automatic target recognition (SAR ATR).**
+### **🛖 A collection of papers, datasets, benchmarks, code, and pre-trained weights for synthetic aperture radar automatic target recognition (SAR ATR).**
 
 
-Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource on SAR image interpretations!🥰🥳🥂
+Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource on SAR image interpretations!🥰
 
 
 
@@ -47,7 +47,7 @@ Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource o
 
 
 
-## **Summary of Surveys in SAR ATR**
+# **Summary of Surveys in SAR ATR**
 
 
 | Year | Venue             | Topic                                             | Scope                   | Survey title                                                                                                                       |
@@ -75,7 +75,7 @@ Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource o
 
 
 # **SAR Target Datasets**
-## :tw-31-20e3:  **SAR Traget Classification Datasets**
+## :one:  **SAR Traget Classification Datasets**
 
 | Year | Publication | Datasets  | Title                                                                                                                                                                                                                                                                                                                                                               | Download                                                                                                   |
 |------|--------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
@@ -96,9 +96,7 @@ Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource o
 
 
 
-
-
-## :tw-32-20e3: **SAR Target Detection Datasets**
+## :two: **SAR Target Detection Datasets**
 
 | Year | Publication | Datasets  | Title                                                                                                                                                                                                                                                                                                            | Download                                                                                                                                           |
 |------|--------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -132,7 +130,7 @@ Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource o
 
 
 #  **SAR Target Classification**
-## :tw-31-20e3: **Traditional Methods for SAR Target Classification**
+## :one: **Traditional Methods for SAR Target Classification**
 
 | Year | Publication | Methods  | Title                                                                                                                                                                                                                                                                                          |
 |------|-------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -164,7 +162,7 @@ Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource o
 
 
 
-## :tw-32-20e3: **Deep Learning Methods for SAR Target Classification**
+## :two: **Deep Learning Methods for SAR Target Classification**
 
 | Year | Publication | Methods  | Title                                                                                                                                    | code |
 |------|-------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------|------|
@@ -206,7 +204,7 @@ Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource o
 
 
 # **SAR Target Detection**
-## :tw-31-20e3: **Traditional Methods for SAR Target Detection**
+## :one: **Traditional Methods for SAR Target Detection**
 
 | Year | Publication | Methods  | Title                                                                                                                          |
 |------|-------------|------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -243,7 +241,7 @@ Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource o
 
 
 
-## :tw-32-20e3: **Deep Learning Methods for SAR Target Detection**
+## :two: **Deep Learning Methods for SAR Target Detection**
 
 | Year | Publication | Methods  | Title                                                                                                                                | Code |
 |------|--------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------|------|
@@ -291,7 +289,7 @@ Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource o
 
 # **Recent Advances**
 
-## :tw-31-20e3: **SAR Foundation Models**
+## :one: **SAR Foundation Models**
 
 | Year | Publication | Methods  | Title                                                                                                            | Code |
 |------|-------------------|------------|-------------------------------------------------------------------------------------------------------------------|------|
@@ -303,7 +301,7 @@ Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource o
 
 
 
-## :tw-32-20e3:  **Limited Data**
+## :two:  **Limited Data**
 
 | Year | Publication | Methods  | Title                                                                                                                                  | Code |
 |------|-------------|----------|----------------------------------------------------------------------------------------------------------------------------------------|------|
@@ -327,7 +325,7 @@ Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource o
 
 
 
-## :tw-33-20e3:  **Adaption Domain**
+## :three:  **Adaption Domain**
 
 | Year | Publication | Methods  | Title                                                                                                                               | Code |
 |------|-------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------|------|
@@ -345,7 +343,7 @@ Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource o
 
 
 
-# 🎈**Acknowledgements**
+## 🎈**Acknowledgements**
 Thanks to [Ziyang Lin](https://github.com/linziyang-1) and Pinyi Huang for inspiring me to create this repo and helping refine it, respectively.
 
 
