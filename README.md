@@ -16,11 +16,6 @@
 
 For more details, kindly refer to our paper【Link】. 
 
-## 🛖 **A collection of papers, datasets, benchmarks, code, and pre-trained weights for SAR ATR**
-- (09/2025) repo is released.
-- Continuously updating. Welcome to join!
-- Please light up the STAR⭐⭐⭐⭐⭐  to encourage more opensource on SAR image interpretations!🥰
-
 
 ## :books: Citation 
 
@@ -28,6 +23,14 @@ If you find this work helpful for your research, please kindly consider citing o
 ```bib
 
 ```
+
+
+## 🛖 **A collection of papers, datasets, benchmarks, code, and pre-trained weights for SAR ATR**
+- (09/2025) repo is released.
+- Continuously updating. Welcome to join!
+- Please light up the STAR⭐⭐⭐⭐⭐  to encourage more opensource on SAR image interpretations!🥰
+
+
 
 # Table of Contents
 
