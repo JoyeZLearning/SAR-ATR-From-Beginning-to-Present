@@ -335,7 +335,7 @@ If you find this work helpful for your research, please kindly consider citing o
 
 
 
-## :three:  **Adaption Domain**
+## :three:  **Domain Adaption**
 
 | Year | Publication | Methods  | Title                                                                                                                               | Code |
 |------|-------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------|------|
