@@ -354,7 +354,7 @@ If you find this work helpful for your research, please kindly consider citing o
 
 
 ## 🎈**Acknowledgements**
-Thanks to [Ziyang Lin](https://github.com/linziyang-1) and [Pinyi Huang](https://github.com/ini17) for inspiring me to create this repo and helping refine it, respectively.
+Thanks to Lily and [Ziyang Lin](https://github.com/linziyang-1), and [Pinyi Huang](https://github.com/ini17). for inspiring me to create this repo and helping refine it, respectively.
 
 
 
