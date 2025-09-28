@@ -2,10 +2,10 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present)
 ![Visitors](https://komarev.com/ghpvc/?username=JoyeZLearning&repo=SAR-ATR-From-Beginning-to-Present&label=Hello,%20Visitor%20&color=yellow&style=social)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present/pulls)
-
+[![arXiv](https://img.shields.io/badge/arXiv-2509.07996-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.07996)
 # 😍 **Fifty Years of SAR ATR: The Road Forward**
 
-<!-- **Jie Zhou (周洁)**, Yongxiang Liu* (刘永祥), Li Liu* (刘丽), Weijie Li (李玮杰), Bowen Peng (彭渤文), Yafei Song (宋娅菲), Gangyao Kuang (匡刚要), Xiang Li* (黎湘) -->
+ Jie Zhou (周洁), Yongxiang Liu* (刘永祥), Li Liu* (刘丽), Weijie Li (李玮杰), Bowen Peng (彭渤文), Yafei Song (宋娅菲), Gangyao Kuang (匡刚要), Xiang Li* (黎湘)
 
 ![History of SAR ATR_01](https://github.com/user-attachments/assets/f0ee8961-3977-4f52-811b-c515f8ec31ac)
 
@@ -354,9 +354,11 @@ If you find this work helpful for your research, please kindly consider citing o
 
 
 ## 🎈**Acknowledgements**
-Thanks to Lily and [Ziyang Lin](https://github.com/linziyang-1), and [Pinyi Huang](https://github.com/ini17). for inspiring me to create this repo and helping refine it, respectively.
+Thanks to Lily and [Ziyang Lin](https://github.com/linziyang-1), and [Pinyi Huang](https://github.com/ini17), for inspiring me to create this repo and helping refine it, respectively.
 
 
+
+<!--[Lingdong Kong](https://github.com/worldbench/survey)-->
 
 
 
