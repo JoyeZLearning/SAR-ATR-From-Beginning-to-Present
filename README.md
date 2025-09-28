@@ -5,7 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2509.07996-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.07996)
 # 😍 **Fifty Years of SAR ATR: The Road Forward**
 
-*Jie Zhou*, *Yongxiang Liu**, *Li Liu**, *Weijie Li*, *Bowen Peng*, *Yafei Song*, *Gangyao Kuang*, *Xiang Li**
+***Jie Zhou***, ***Yongxiang Liu****, ***Li Liu***, **Weijie Li**, **Bowen Peng**, **Yafei Song**, **Gangyao Kuang**, **Xiang Li***
 
 ![History of SAR ATR_01](https://github.com/user-attachments/assets/f0ee8961-3977-4f52-811b-c515f8ec31ac)
 
