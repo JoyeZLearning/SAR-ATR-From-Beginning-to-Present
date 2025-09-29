@@ -24,13 +24,11 @@ For more details, kindly refer to our [paper](https://arxiv.org/pdf/2509.22159v1
 
 If you find this work helpful for your research, please kindly consider citing our paper:
 ```bib
-@misc{zhou2025fiftyyearssarautomatic,
-      title={Fifty Years of SAR Automatic Target Recognition: The Road Forward}, 
-      author={Jie Zhou and Yongxiang Liu and Li Liu and Weijie Li and Bowen Peng and Yafei Song and Gangyao Kuang and Xiang Li},
+@article{zhou2025fiftyyearssarautomatic,
+      title={Fifty Years of SAR Automatic Target Recognition: The Road Forward},
+      author={Zhou, jie and Liu, Yongxiang and Liu, Li and Li, Weijie and Peng, Bowen and Song, Yafei and Kuang, Gangyao and Li, Xiang},
+      journal={arXiv preprint arXiv:2501.22159},
       year={2025},
-      eprint={2509.22159},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV},
       url={https://arxiv.org/abs/2509.22159}, 
 }
 ```
