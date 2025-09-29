@@ -2,12 +2,11 @@
 ![Visitors](https://komarev.com/ghpvc/?username=JoyeZLearning&repo=SAR-ATR-From-Beginning-to-Present&label=Hello,%20Visitor%20&color=yellow&style=social)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present/pulls)
-
-<!--[![arXiv](https://img.shields.io/badge/arXiv-2509.07996-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.07996)-->
+[![arXiv](https://img.shields.io/badge/arXiv-2509.22159-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.22159)
 
 # 😍 **Fifty Years of SAR ATR: The Road Forward**
 
-***[Jie Zhou](https://scholar.google.com/citations?hl=zh-CN&user=IBHODOcAAAAJ)***, ***Yongxiang Liu****, ***[Li Liu](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en)****, ***Weijie Li***, ***Bowen Peng***, ***Yafei Song***, ***Gangyao Kuang**, ***Xiang Li*****
+***[Jie Zhou](https://scholar.google.com/citations?hl=zh-CN&user=IBHODOcAAAAJ)***, ***Yongxiang Liu****, ***[Li Liu](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en)****, ***Weijie Li***, ***[Bowen Peng](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=I8QD_w0AAAAJ)***, ***Yafei Song***, ***Gangyao Kuang**, ***Xiang Li*****
 
 ![History of SAR ATR_01](https://github.com/user-attachments/assets/f0ee8961-3977-4f52-811b-c515f8ec31ac)
 
