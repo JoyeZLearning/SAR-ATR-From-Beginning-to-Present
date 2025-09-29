@@ -6,7 +6,7 @@
 
 # 😍 **Fifty Years of SAR ATR: The Road Forward**
 
-***[Jie Zhou](https://scholar.google.com/citations?hl=zh-CN&user=IBHODOcAAAAJ)***, ***[Yongxiang Liu](https://scholar.google.com/citations?user=a9tTHSEAAAAJ&hl=zh-CN)*****, ***[Li Liu](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en)*****, ***[Weijie Li](https://scholar.google.com/citations?hl=zh-CN&user=YqgOTXMAAAAJ)***, ***[Bowen Peng](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=I8QD_w0AAAAJ)***, ***Yafei Song***, ***Gangyao Kuang**, ***Xiang Li*****
+***[Jie Zhou](https://scholar.google.com/citations?hl=zh-CN&user=IBHODOcAAAAJ)***, ***[Yongxiang Liu](https://scholar.google.com/citations?user=a9tTHSEAAAAJ&hl=zh-CN)******, ***[Li Liu](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en)******, ***[Weijie Li](https://scholar.google.com/citations?hl=zh-CN&user=YqgOTXMAAAAJ)***, ***[Bowen Peng](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=I8QD_w0AAAAJ)***, ***Yafei Song***, ***Gangyao Kuang**, ***Xiang Li*****
 
 ![History of SAR ATR_01](https://github.com/user-attachments/assets/f0ee8961-3977-4f52-811b-c515f8ec31ac)
 
