@@ -17,14 +17,22 @@
 
 **An evolutionary tree of SAR ATR technology from the 1990s to present, organized into four primary branches based on target types: ships, vehicles, aircraft, and other targets. Branch nodes represent landmark methodologies, connecting lines indicate technological inheritance and innovation, while cross-branch linkages signal the emergence of generalizable models.**
 
-For more details, kindly refer to our paper【Link】. 
+For more details, kindly refer to our [paper](https://arxiv.org/pdf/2509.22159v1). 
 
 
 ## :books: Citation 
 
 If you find this work helpful for your research, please kindly consider citing our paper:
 ```bib
-
+@misc{zhou2025fiftyyearssarautomatic,
+      title={Fifty Years of SAR Automatic Target Recognition: The Road Forward}, 
+      author={Jie Zhou and Yongxiang Liu and Li Liu and Weijie Li and Bowen Peng and Yafei Song and Gangyao Kuang and Xiang Li},
+      year={2025},
+      eprint={2509.22159},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2509.22159}, 
+}
 ```
 
 
