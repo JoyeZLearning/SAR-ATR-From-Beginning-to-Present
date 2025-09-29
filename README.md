@@ -315,6 +315,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | 2025 | arXiv             |            | [A Complex-valued SAR Foundation Model Based on Physically Inspired Representation Learning](https://arxiv.org/abs/2504.11999 "A Complex-valued SAR Foundation Model Based on Physically Inspired Representation Learning")                        |      |
 | 2025 | JAG               | SUMMIT     |[ SUMMIT: A SAR foundation model with multiple auxiliary tasks enhanced intrinsic characteristics](https://www.sciencedirect.com/science/article/pii/S1569843225002717 " SUMMIT: A SAR foundation model with multiple auxiliary tasks enhanced intrinsic characteristics")                   |   [SUMMIT](https://github.com/Yunsans/SUMMIT-SAR "SUMMIT")   |
 | 2025 | Nat. Mach. Intell | SkySense++ | [A semantic-enhanced multi-modal remote sensing foundation model for Earth observation](https://www.nature.com/articles/s42256-025-01078-8 "A semantic-enhanced multi-modal remote sensing foundation model for Earth observation")                             |    [SkySense++](https://github.com/kang-wu/SkySensePlusPlus "SkySense++")  |
+| 2025 | arxiv         |  AFRL-DINOv2-   | [On the Status of Foundation Models for SAR Imagery ](https://arxiv.org/pdf/2509.21722v1 "On the Status of Foundation Models for SAR Imagery")                                          | -   |
 
 
 
