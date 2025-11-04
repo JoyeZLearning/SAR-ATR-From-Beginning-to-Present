@@ -36,7 +36,7 @@ If you find this work helpful for your research, please kindly consider citing o
 
 ## 🛖 **A collection of papers, datasets, benchmarks, code, and pre-trained weights for SAR ATR**
 - (09/2025) repo is released.
-- The updates are currently done **MONTHLY**, adding interesting and classic articles, datasets, etc.. We will keep records of the update dates and content, and everyone is also welcome to join in.
+- The updates are currently done **Bi-MONTHLY**, adding interesting and classic articles, datasets, etc.. We will keep records of the update dates and content, and everyone is also welcome to join in.
 - Please light up the STAR⭐⭐⭐⭐⭐  to encourage more opensource on SAR image interpretations!🥰
 
 
