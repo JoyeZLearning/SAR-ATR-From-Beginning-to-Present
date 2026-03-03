@@ -2,7 +2,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=JoyeZLearning&repo=SAR-ATR-From-Beginning-to-Present&label=Hello,%20Visitor%20&color=yellow&style=social)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present/pulls)
-[![arXiv](https://img.shields.io/badge/arXiv-2509.22159v1-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.22159v1)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.22159v1-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.22159v2)
 
 # 😍 **Fifty Years of Object Detection and Recognition from Synthetic Aperture Radar Remote Sensing Imagery: The Road Forward**
 
@@ -17,7 +17,7 @@
 
 **An evolutionary tree of SAR ATR technology from the 1990s to present, organized into four primary branches based on target types: ships, vehicles, aircraft, and other targets. Branch nodes represent landmark methodologies, connecting lines indicate technological inheritance and innovation, while cross-branch linkages signal the emergence of generalizable models.**
 
-For more details, kindly refer to our [paper](https://arxiv.org/pdf/2509.22159). 
+For more details, kindly refer to our [paper](https://arxiv.org/pdf/2509.22159v2). 
 
 
 ## :books: Citation 
