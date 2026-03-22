@@ -4,8 +4,8 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present/pulls)
 [![arXiv](https://img.shields.io/badge/arXiv-2509.22159v2-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.22159v2)
 
-# 😍 **Fifty Years of Object Detection and Recognition from Synthetic Aperture Radar Remote Sensing Imagery: The Road Forward**
-
+# 😍 **Fifty Years of SAR Automatic Target Recognition: The Road Forward**
+ (Fifty Years of Object Detection and Recognition from Synthetic Aperture Radar Remote Sensing Imagery: The Road Forward)
 ***[Jie Zhou](https://scholar.google.com/citations?hl=zh-CN&user=IBHODOcAAAAJ)***, ***[Yongxiang Liu](https://scholar.google.com/citations?user=a9tTHSEAAAAJ&hl=zh-CN)******, ***[Li Liu](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en)******, ***[Weijie Li](https://scholar.google.com/citations?hl=zh-CN&user=YqgOTXMAAAAJ)***, ***[Bowen Peng](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=I8QD_w0AAAAJ)***, ***Yafei Song***, ***Gangyao Kuang**, ***Xiang Li*****
 
 **周洁，刘永祥，刘丽，李玮杰，彭渤文，宋娅菲，匡纲要，黎湘**
@@ -42,7 +42,7 @@ For more details, kindly refer to our [paper](https://arxiv.org/pdf/2509.22159v2
 If you find this work helpful for your research, please kindly consider citing our paper:
 ```bib
 @article{zhou2025fiftyyearssarautomatic,
-      title={Fifty Years of Object Detection and Recognition from Synthetic Aperture Radar Remote Sensing Imagery: The Road Forward},
+      title={Fifty Years of SAR Automatic Target Recognition: The Road Forward},
       author={Zhou, jie and Liu, Yongxiang and Liu, Li and Li, Weijie and Peng, Bowen and Song, Yafei and Kuang, Gangyao and Li, Xiang},
       journal={arXiv preprint arXiv:2509.22159},
       year={2025},
