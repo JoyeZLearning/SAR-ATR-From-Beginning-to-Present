@@ -30,16 +30,24 @@
 <img width="1998" height="630" alt="image" src="https://github.com/user-attachments/assets/b11b9561-7e9e-4efd-9f21-6448429c2b4b" />
 Fig. 1: **Importance of SAR ATR.** (a) From 2020 to 2024, the annual number of published papers in the fields of remote sensing (RS) and computer vision (CV) has reached a similar level (the gap is less than 10%). However, the number of public RS-related code repositories on GitHub remains relatively limited, accounting for only approximately one-fourth of that in the CV domain. This discrepancy highlights significant untapped potential for advancing open-source ecosystem development within the remote sensing community. (b) Most frequent keywords in remote sensing-related papers from 2020 to 2024. The size of each word is proportional to the frequency, highlighting that concepts such as synthetic aperture radar (SAR), image classification, and object detection have garnered substantial attention. (c) SAR ATR are widely used and irreplaceable for polar sea ice monitoring and navigation safety (in the field of glaciers), in extraterrestrial geology and target recognition (in deep space exploration), forest/flood/deformation monitoring related to global change, and also situational awareness for public safety and national defense. As a core direction in the intelligent interpretation of remote sensing images, SAR ATR has been continuously attracting high attention from both the academic and industrial communities. (All statistics on the number of papers are from the WOS Core Collection Database.)
 
+
+
 ![History of SAR ATR_01](https://github.com/user-attachments/assets/f0ee8961-3977-4f52-811b-c515f8ec31ac)
 Fig. 2: **Timeline milestone of SAR automatic target recognition evolution**, including two core tasks of classificationand detection, from understanding physics, designing features, learning features to understanding and learning features.
+
+
 
 ![tree 20250923_01](https://github.com/user-attachments/assets/f65405eb-be0c-44a2-878b-379becf5ba5a)
 Fig. 3: **An evolutionary tree of SAR ATR technology from the 1990s to present, organized into four primary branches based on target types: ships, vehicles, aircraft, and other targets. Branch nodes represent landmark methodologies, connecting lines indicate technological inheritance and innovation, while cross-branch linkages signal the emergence of generalizable models.**
 
+
+
 <img width="1842" height="1572" alt="image" src="https://github.com/user-attachments/assets/68389d43-a7c6-4957-8806-28a92575289b" />
 Fig. 4: **(a) Definition of SAR ATR.** It encompasses two key stages: detection, which locates potential target regions within a large-scale SAR image, and classification, which classifies the specific category (exemplified by the oil tanker ship) of the detected target. **(b) Difference between optical and SAR images, and some challenging instances during SAR target recognition.**
 
-For more details, kindly refer to our [paper](https://arxiv.org/pdf/2509.22159v2). 
+
+
+### For more details, kindly refer to our [paper](https://arxiv.org/pdf/2509.22159v2). 
 
 
 ## :books: Citation 
