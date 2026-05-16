@@ -76,6 +76,7 @@ If you find this work helpful for your research, please kindly consider citing o
   - [SAR Foundation Models](#one-sar-foundation-models)
   - [Limited Data](#two-limited-data)
   - [Domain Adaption](#three-domain-adaption)
+- [**Outlooks**](#Outlooks)
 - [**Acknowledgements**](#acknowledgements)
 
 
@@ -377,9 +378,11 @@ If you find this work helpful for your research, please kindly consider citing o
 | 2025 | ISPRS JPRS  | SAFA-MAO    | [Simulation-aided similarity-aware feature alignment with meta-adaption optimization for SAR ATR under extended operation conditions ](https://www.sciencedirect.com/science/article/pii/S0924271625000322 "Simulation-aided similarity-aware feature alignment with meta-adaption optimization for SAR ATR under extended operation conditions ")|   [ SAFA-MAO](https://github.com/ShShann/SA2FA-MAO " SAFA-MAO")  |
 | 2025 | IEEE Jstars | CDFS-SAR    | [Learning From Natural Images in FewShot SAR Target Classification ](https://ieeexplore.ieee.org/abstract/document/10946144/ "Learning From Natural Images in FewShot SAR Target Classification ")                                                                  |      |
 
+# **Outlooks**
 
+<img width="1944" height="1545" alt="image" src="https://github.com/user-attachments/assets/94239e24-b227-4f51-b48d-159343b50f2c" />
 
-
+we identify promising directions for future SAR ATR research across ecosystem; theory, model, and algorithm; real-world application; and systemsecurity.
 
 ## 🎈**Acknowledgements**
 Thanks to [Lily](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en "Lily") and [Ziyang Lin](https://github.com/linziyang-1), and [Pinyi Huang](https://github.com/ini17), for inspiring me to create this repo and helping refine it, respectively.
