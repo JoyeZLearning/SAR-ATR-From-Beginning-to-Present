@@ -10,7 +10,7 @@
  
 ***[Jie Zhou](https://scholar.google.com/citations?hl=zh-CN&user=IBHODOcAAAAJ)***, ***[Yongxiang Liu](https://scholar.google.com/citations?user=a9tTHSEAAAAJ&hl=zh-CN)******, ***[Li Liu](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en)******, ***[Weijie Li](https://scholar.google.com/citations?hl=zh-CN&user=YqgOTXMAAAAJ)***, ***[Bowen Peng](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=I8QD_w0AAAAJ)***, ***Yafei Song***, ***Gangyao Kuang**, ***Xiang Li*****
 
-
+**This [paper](https://arxiv.org/pdf/2509.22159v1) provides the first comprehensive review of fifty years of synthetic aperture radar automatic target recognition (SAR ATR) development, tracing its evolution from inception to the present day.**
 
 在前沿‮技科‬飞速迭代的今天，我‮一们‬直在思考：如何让‮一每‬次雷达回波，都被读懂？这篇‮域领‬内时‮跨间‬度最长、覆盖范围‮广最‬的综述，是50余年追‮接问‬力中的一棒。
 
@@ -26,15 +26,18 @@
 
 愿此文能给‮家大‬带来一些愉悦、灵感‮收与‬获，携手共‮遥筑‬感在AI时‮的代‬更大价值，一‮眺同‬望更远的远方。
 
+
+<img width="1998" height="630" alt="image" src="https://github.com/user-attachments/assets/b11b9561-7e9e-4efd-9f21-6448429c2b4b" />
+Fig. 1: **Importance of SAR ATR.** (a) From 2020 to 2024, the annual number of published papers in the fields of remote sensing (RS) and computer vision (CV) has reached a similar level (the gap is less than 10%). However, the number of public RS-related code repositories on GitHub remains relatively limited, accounting for only approximately one-fourth of that in the CV domain. This discrepancy highlights significant untapped potential for advancing open-source ecosystem development within the remote sensing community. (b) Most frequent keywords in remote sensing-related papers from 2020 to 2024. The size of each word is proportional to the frequency, highlighting that concepts such as synthetic aperture radar (SAR), image classification, and object detection have garnered substantial attention. (c) SAR ATR are widely used and irreplaceable for polar sea ice monitoring and navigation safety (in the field of glaciers), in extraterrestrial geology and target recognition (in deep space exploration), forest/flood/deformation monitoring related to global change, and also situational awareness for public safety and national defense. As a core direction in the intelligent interpretation of remote sensing images, SAR ATR has been continuously attracting high attention from both the academic and industrial communities. (All statistics on the number of papers are from the WOS Core Collection Database.)
+
 ![History of SAR ATR_01](https://github.com/user-attachments/assets/f0ee8961-3977-4f52-811b-c515f8ec31ac)
-
-**This [paper](https://arxiv.org/pdf/2509.22159v1) provides the first comprehensive review of fifty years of synthetic aperture radar automatic target recognition (SAR ATR) development, tracing its evolution from inception to the present day.**
-
-
+Fig. 2: **Timeline milestone of SAR automatic target recognition evolution**, including two core tasks of classificationand detection, from understanding physics, designing features, learning features to understanding and learning features.
 
 ![tree 20250923_01](https://github.com/user-attachments/assets/f65405eb-be0c-44a2-878b-379becf5ba5a)
+Fig. 3: **An evolutionary tree of SAR ATR technology from the 1990s to present, organized into four primary branches based on target types: ships, vehicles, aircraft, and other targets. Branch nodes represent landmark methodologies, connecting lines indicate technological inheritance and innovation, while cross-branch linkages signal the emergence of generalizable models.**
 
-**An evolutionary tree of SAR ATR technology from the 1990s to present, organized into four primary branches based on target types: ships, vehicles, aircraft, and other targets. Branch nodes represent landmark methodologies, connecting lines indicate technological inheritance and innovation, while cross-branch linkages signal the emergence of generalizable models.**
+
+Fig. 4: **(a) Definition of SAR ATR.** It encompasses two key stages: detection, which locates potential target regions within a large-scale SAR image, and classification, which classifies the specific category (exemplified by the oil tanker ship) of the detected target. **(b) Difference between optical and SAR images, and some challenging instances during SAR target recognition.**
 
 For more details, kindly refer to our [paper](https://arxiv.org/pdf/2509.22159v2). 
 
