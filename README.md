@@ -8,7 +8,7 @@
 
  (Fifty Years of Object Detection and Recognition from Synthetic Aperture Radar Remote Sensing Imagery: The Road Forward)
  
-***[Jie Zhou](https://scholar.google.com/citations?hl=zh-CN&user=IBHODOcAAAAJ)***, ***[Yongxiang Liu](https://scholar.google.com/citations?user=a9tTHSEAAAAJ&hl=zh-CN)******, ***[Li Liu](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en)******, ***[Weijie Li](https://scholar.google.com/citations?hl=zh-CN&user=YqgOTXMAAAAJ)***, ***[Bowen Peng](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=I8QD_w0AAAAJ)***, ***Yafei Song***, ***Gangyao Kuang**, ***Xiang Li*****
+**[Jie Zhou](https://scholar.google.com/citations?hl=zh-CN&user=IBHODOcAAAAJ)**, **[Yongxiang Liu](https://scholar.google.com/citations?user=a9tTHSEAAAAJ&hl=zh-CN)**, **[Li Liu](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en)**, **[Weijie Li](https://scholar.google.com/citations?hl=zh-CN&user=YqgOTXMAAAAJ)**, **[Bowen Peng](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=I8QD_w0AAAAJ)**, **Yafei Song**, **Gangyao Kuang**, **Xiang Li***
 
 **This [paper](https://arxiv.org/pdf/2509.22159v1) provides the first comprehensive review of fifty years of synthetic aperture radar automatic target recognition (SAR ATR) development, tracing its evolution from inception to the present day.**
 
