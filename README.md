@@ -12,21 +12,21 @@
 
 **This [paper](https://arxiv.org/pdf/2509.22159v1) provides the first comprehensive review of fifty years of synthetic aperture radar automatic target recognition (SAR ATR) development, tracing its evolution from inception to the present day.**
 
-在前沿‮技科‬飞速迭代的今天，我‮一们‬直在思考：如何让‮一每‬次雷达回波，都被读懂？这篇‮域领‬内时‮跨间‬度最长、覆盖范围‮广最‬的综述，是50余年追‮接问‬力中的一棒。
-
-我们‮初的‬衷包括但不限于，
-
-①探索经‮智典‬慧如何在AI时代被传承、发扬与再创新；
-
-②厘清哪些挑战‮点难‬已解决、部‮解分‬决、一直悬‮未而‬决、以及‮在正‬出现；
-
-③共‮开建‬源生态，助力领域‮陈推‬出新；
-
-④立足当下，鉴‮知往‬来。
-
-愿此文能给‮家大‬带来一些愉悦、灵感‮收与‬获，携手共‮遥筑‬感在AI时‮的代‬更大价值，一‮眺同‬望更远的远方。
 
 
+In an era of rapid advancements in cutting-edge technology, we have been contemplating a fundamental question: How can we ensure that every radar echo is truly understood? This review, which boasts the most extensive temporal span and comprehensive coverage in the field, represents a milestone in our pursuit of answers over the past five decades.
+
+Our original motivations include, but are not limited to:
+
+① Exploring how classical wisdom can be inherited, advanced, and re-innovated in the age of AI;
+
+② Clarifying which challenges have been resolved, partially addressed, remain unresolved, or are newly emerging;
+
+③ Jointly building an open-source ecosystem to facilitate continuous innovation in the field;
+
+④ Grounding ourselves in the present while drawing insights from the past.
+
+We hope this article brings you enjoyment, inspiration, and valuable insights. Let us work together to unlock greater value for remote sensing in the AI era and look forward to a more promising future.
 
 <img width="2175" height="681" alt="image" src="https://github.com/user-attachments/assets/d2a0545b-a816-4627-9042-e72b9756762f" />
 
