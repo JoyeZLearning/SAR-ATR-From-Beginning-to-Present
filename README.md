@@ -103,7 +103,8 @@ If you find this work helpful for your research, please kindly consider citing o
 - [**Recent Advances**](#recent-advances)
   - [SAR Foundation Models](#one-sar-foundation-models)
   - [Limited Data](#two-limited-data)
-  - [Domain Adaption](#three-domain-adaption)
+  - [Generative Data Enhancement](#three-generative-data-enhancement)
+  - [Domain Adaption](#four-domain-adaption)
 - [**Outlooks**](#Outlooks)
 - [**Acknowledgements**](#acknowledgements)
 
@@ -388,11 +389,20 @@ If you find this work helpful for your research, please kindly consider citing o
 | 2024 | IEEE TGRS   |          | [SAR ship detection based on explainable evidence learning under intraclass imbalance](https://ieeexplore.ieee.org/abstract/document/10459331/ "SAR ship detection based on explainable evidence learning under intraclass imbalance")                                                   |      |
 | 2025 | PR          | SCDQ     | [Supervised contrastive deep Q-Network for imbalanced radar automatic target recognition](https://www.sciencedirect.com/science/article/pii/S003132032401015X "Supervised contrastive deep Q-Network for imbalanced radar automatic target recognition")                                                |      |
 
+## :three:  **Generative Data Enhancement**
+| Year | Publication | Methods  | Title                                                                                                                                  | Code |
+|------|-------------|----------|----------------------------------------------------------------------------------------------------------------------------------------|------|
+| 2025 | IEEE ICCV   | /ph-GAN       | [Ph-GAN: Physics-inspired GAN for generating SAR images under limited data](https://ieeexplore.ieee.org/document/11445015/ "Ph-GAN: Physics-inspired GAN for generating SAR images under limited data")                                                         |      |
+| 2025 | IEEE JSTARS   | DiffuSAR    | [DiffuSAR: Frequency Domain-Aware Diffusion Model for SAR Image Generation](https://ieeexplore.ieee.org/document/10974573/ "DiffuSAR: Frequency Domain-Aware Diffusion Model for SAR Image Generation")                                                         |      |
+| 2025 | IEEE TIP   | X-Fake       | [X-fake: Juggling utility evaluation and explanation of simulated SAR images](https://ieeexplore.ieee.org/document/11267238/ "X-fake: Juggling utility evaluation and explanation of simulated SAR images")                                                         |      |
+| 2026 |  arxiv   | GeoDiff-SAR       | [GeoDiff-SAR: A Geometric Prior Guided Diffusion Model for SAR Image Generation](https://arxiv.org/abs/2601.03499/ "GeoDiff-SAR: A Geometric Prior Guided Diffusion Model for SAR Image Generation")                                                         |      |
+| 2026 |  arxiv  | GeoDiff-SAR II      | [GeoDiff-SAR II: 3D-Driven Foundation Diffusion Models for SAR Generation via Decoupled Control](https://arxiv.org/abs/2605.21116/ "GeoDiff-SAR II: 3D-Driven Foundation Diffusion Models for SAR Generation via Decoupled Control")                                                         |      |
+| 2026 |  arxiv  | HuiYanEarth-SAR       | [HuiYanEarth-SAR: A Foundation Model for High-Fidelity and Low-Cost Global Remote Sensing Imagery Generation](https://arxiv.org/abs/2604.11444/ "HuiYanEarth-SAR: A Foundation Model for High-Fidelity and Low-Cost Global Remote Sensing Imagery Generation")                                                         |      |                                                      |      |
+| 2026 | AAAI   | SAR-DisentDM      | [SAR-disentDM: a semantic-disentangled diffusion model for limited-data SAR image synthesis](https://ojs.aaai.org/index.php/AAAI/article/view/38165/ "Ph-GAN: Physics-inspired GAN for generating SAR images under limited data")                                                         |      |
+| 2026 |  arxiv   | SAGA       | [A Task-Driven and Quality-Assured Agent Framework for SAR Data Generation](https://arxiv.org/abs/2606.28896/ "A Task-Driven and Quality-Assured Agent Framework for SAR Data Generation")                                                         |      |
+| 2026 |  arxiv  | Sat-DiFuser       | [Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models?](https://arxiv.org/abs/2503.07890/ "Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models?")                                                         |      |
 
-
-
-
-## :three:  **Domain Adaption**
+## :four:  **Domain Adaption**
 
 | Year | Publication | Methods  | Title                                                                                                                               | Code |
 |------|-------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------|------|
