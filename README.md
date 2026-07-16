@@ -57,7 +57,7 @@ Fig. 2: **Timeline milestone of SAR automatic target recognition evolution**, in
 
 Fig. 3: **An evolutionary tree of SAR ATR technology from the 1990s to present, organized into four primary branches based on target types: ships, vehicles, aircraft, and other targets. Branch nodes represent landmark methodologies, connecting lines indicate technological inheritance and innovation, while cross-branch linkages signal the emergence of generalizable models.**
 
-
+**************************************************************************************************************************
 
 <img width="1842" height="1572" alt="image" src="https://github.com/user-attachments/assets/68389d43-a7c6-4957-8806-28a92575289b" />
 Fig. 4: (a) Definition of SAR ATR. It encompasses two key stages: detection, which locates potential target regions within a large-scale SAR image, and classification, which classifies the specific category (exemplified by the oil tanker ship) of the detected target. **(b) Difference between optical and SAR images, and some challenging instances during SAR target recognition.**
