@@ -60,7 +60,8 @@ Fig. 3: **An evolutionary tree of SAR ATR technology from the 1990s to present**
 **************************************************************************************************************************
 
 <img width="1842" height="1572" alt="image" src="https://github.com/user-attachments/assets/68389d43-a7c6-4957-8806-28a92575289b" />
-Fig. 4: (a) **Definition of SAR ATR.** It encompasses two key stages: detection, which locates potential target regions within a large-scale SAR image, and classification, which classifies the specific category (exemplified by the oil tanker ship) of the detected target. (b) Difference between optical and SAR images, and some challenging instances during SAR target recognition.
+
+Fig. 4: **(a) Definition of SAR ATR.** It encompasses two key stages: detection, which locates potential target regions within a large-scale SAR image, and classification, which classifies the specific category (exemplified by the oil tanker ship) of the detected target. (b) Difference between optical and SAR images, and some challenging instances during SAR target recognition.
 
 **************************************************************************************************************************
 
