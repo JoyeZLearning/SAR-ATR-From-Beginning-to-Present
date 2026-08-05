@@ -2,15 +2,14 @@
 ![Visitors](https://komarev.com/ghpvc/?username=JoyeZLearning&repo=SAR-ATR-From-Beginning-to-Present&label=Hello,%20Visitor%20&color=yellow&style=social)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present/pulls)
-[![arXiv](https://img.shields.io/badge/arXiv-2509.22159v2-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.22159v2)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.22159v3-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.22159v3)
 
 # 😍 **Fifty Years of SAR Automatic Target Recognition: The Road Forward**
 
- (Fifty Years of Object Detection and Recognition from Synthetic Aperture Radar Remote Sensing Imagery: The Road Forward)
  
-**[Jie Zhou](https://scholar.google.com/citations?hl=zh-CN&user=IBHODOcAAAAJ)**, **[Yongxiang Liu](https://scholar.google.com/citations?user=a9tTHSEAAAAJ&hl=zh-CN)**, **[Li Liu](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en)**, **[Weijie Li](https://scholar.google.com/citations?hl=zh-CN&user=YqgOTXMAAAAJ)**, **[Bowen Peng](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=I8QD_w0AAAAJ)**, **Yafei Song**, **Gangyao Kuang**, **Xiang Li***
+**[Jie Zhou](https://scholar.google.com/citations?hl=zh-CN&user=IBHODOcAAAAJ)**, **[Yongxiang Liu](https://scholar.google.com/citations?user=a9tTHSEAAAAJ&hl=zh-CN)**, **[Li Liu](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en)**, **[Weijie Li](https://scholar.google.com/citations?hl=zh-CN&user=YqgOTXMAAAAJ)**, **Taoli Yang**, **[Bowen Peng](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=I8QD_w0AAAAJ)**, **Yafei Song**, **Gangyao Kuang**, **Xiang Li***
 
-**This [paper](https://arxiv.org/pdf/2509.22159v1) provides the first comprehensive review of fifty years of synthetic aperture radar automatic target recognition (SAR ATR) development, tracing its evolution from inception to the present day.**
+**This [paper](https://arxiv.org/pdf/2509.22159v3) provides the first comprehensive review of fifty years of synthetic aperture radar automatic target recognition (SAR ATR) development, tracing its evolution from inception to the present day.**
 
 **********************************************************************************************************************
 
@@ -74,7 +73,7 @@ If you find this work helpful for your research, please kindly consider citing o
 ```bib
 @article{zhou2025fiftyyearssarautomatic,
       title={Fifty Years of SAR Automatic Target Recognition: The Road Forward},
-      author={Zhou, jie and Liu, Yongxiang and Liu, Li and Li, Weijie and Peng, Bowen and Song, Yafei and Kuang, Gangyao and Li, Xiang},
+      author={Zhou, jie and Liu, Yongxiang and Liu, Li and Li, Weijie and Yang, Taoli and Peng, Bowen and Song, Yafei and Kuang, Gangyao and Li, Xiang},
       journal={arXiv preprint arXiv:2509.22159},
       year={2025},
       url={https://arxiv.org/abs/2509.22159}, 
