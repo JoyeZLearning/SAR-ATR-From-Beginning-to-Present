@@ -4,7 +4,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present/pulls)
 [![arXiv](https://img.shields.io/badge/arXiv-2509.22159v3-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.22159v3)
 
-# 😍 **Fifty Years of SAR Automatic Target Recognition: The Road Forward**
+# 😍 **Fifty Years of SAR Automatic Target Recognition: The Road Forward** (IEEE GRSM 2026)
 
  
 **[Jie Zhou](https://scholar.google.com/citations?hl=zh-CN&user=IBHODOcAAAAJ)**, **[Yongxiang Liu](https://scholar.google.com/citations?user=a9tTHSEAAAAJ&hl=zh-CN)**, **[Li Liu](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en)**, **[Weijie Li](https://scholar.google.com/citations?hl=zh-CN&user=YqgOTXMAAAAJ)**, **Taoli Yang**, **[Bowen Peng](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=I8QD_w0AAAAJ)**, **Yafei Song**, **Gangyao Kuang**, **Xiang Li***
