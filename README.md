@@ -25,20 +25,6 @@
 ④立足当下，鉴‮知往‬来。
 
 愿此文能给‮家大‬带来一些愉悦、灵感‮收与‬获，携手共‮遥筑‬感在AI时‮的代‬更大价值，一‮眺同‬望更远的远方。
-
-In an era of rapid advancements in cutting-edge technology, we have been contemplating a fundamental question: How can we ensure that every radar echo is truly understood? This review, which boasts the most extensive temporal span and comprehensive coverage in the field, represents a milestone in our pursuit of answers over the past five decades.
-
-Our original motivations include, but are not limited to:
-
-① Exploring how classical wisdom can be inherited, advanced, and re-innovated in the age of AI;
-
-② Clarifying which challenges have been resolved, partially addressed, remain unresolved, or are newly emerging;
-
-③ Jointly building an open-source ecosystem to facilitate continuous innovation in the field;
-
-④ Grounding ourselves in the present while drawing insights from the past.
-
-We hope this article brings you enjoyment, inspiration, and valuable insights. Let us work together to unlock greater value for remote sensing in the AI era and look forward to a more promising future.
 **************************************************************************************************************************
 <img width="2175" height="681" alt="image" src="https://github.com/user-attachments/assets/d2a0545b-a816-4627-9042-e72b9756762f" />
 
