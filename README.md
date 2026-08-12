@@ -137,7 +137,7 @@ Our review has been accepted by IEEE Geoscience and Remote Sensing Magazine on A
 | 2025 | IEEE Jstar        | detection and classification                      | Deep learning                      | [Recent Advances in Deep Learning based SAR Image Targets Detection and Recognition](https://ieeexplore.ieee.org/abstract/document/10892079/ "Recent Advances in Deep Learning based SAR Image Targets Detection and Recognition")                                                 |
 | 2025 | IEEE Jstar        | dual perspective for detection and classification | Tradition+Deep learning | [Review of synthetic aperture radar automatic target recognition: A dual perspective on classical and deep learning techniques ](https://ieeexplore.ieee.org/abstract/document/11082447/ "Review of synthetic aperture radar automatic target recognition: A dual perspective on classical and deep learning techniques ")     |
 | 2026 | IEEE Jstar          | ship classification                    | Deep learning | [A Survey on SAR Ship Classification Using Deep Learning](https://ieeexplore.ieee.org/document/11533153/ "A Survey on SAR Ship Classification Using Deep Learning")      |    
-| 2026 | Ours              | fifty evolution<br>of SAR ATR                     | Tradition+Deep learning | Fifty Years of SAR Automatic Target Recognition The Road Forward                                                                   |
+| 2026 | Ours              | fifty evolution<br>of SAR ATR                     | Tradition+Deep learning |            [Fifty Years of SAR Automatic Target Recognition The Road Forward](https://arxiv.org/pdf/2509.22159v3 "Fifty Years of SAR Automatic Target Recognition The Road Forward")                                                           |
 
 
 
