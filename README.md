@@ -70,13 +70,16 @@ Fig. 4: **(a) Definition of SAR ATR.** It encompasses two key stages: detection,
 
 If you find this work helpful for your research, please kindly consider citing our paper:
 ```bib
-@article{zhou2025fiftyyearssarautomatic,
-      title={Fifty Years of SAR Automatic Target Recognition: The Road Forward},
-      author={Zhou, jie and Liu, Yongxiang and Liu, Li and Li, Weijie and Yang, Taoli and Peng, Bowen and Song, Yafei and Kuang, Gangyao and Li, Xiang},
-      journal={arXiv preprint arXiv:2509.22159},
-      year={2025},
-      url={https://arxiv.org/abs/2509.22159}, 
-}
+@ARTICLE{zhou2026fiftyyearsSARATR,
+  author={Zhou, Jie and Liu, Yongxiang and Liu, Li and Li, Weijie and Yang, Taoli and Peng, Bowen and Song, Yafei and Kuang, Gangyao and Li, Xiang},
+  journal={IEEE Geoscience and Remote Sensing Magazine}, 
+  title={Fifty Years of Synthetic Aperture Radar Automatic Target Recognition: The road forward}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={2-34},
+  keywords={},
+  doi={10.1109/MGRS.2026.3721430}}
 ```
 
 
