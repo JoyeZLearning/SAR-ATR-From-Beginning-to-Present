@@ -9,7 +9,7 @@
  
 **[Jie Zhou](https://scholar.google.com/citations?hl=zh-CN&user=IBHODOcAAAAJ)**, **[Yongxiang Liu](https://scholar.google.com/citations?user=a9tTHSEAAAAJ&hl=zh-CN)**, **[Li Liu](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en)**, **[Weijie Li](https://scholar.google.com/citations?hl=zh-CN&user=YqgOTXMAAAAJ)**, **Taoli Yang**, **[Bowen Peng](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=I8QD_w0AAAAJ)**, **Yafei Song**, **Gangyao Kuang**, **Xiang Li***
 
-**This [paper](https://arxiv.org/pdf/2509.22159v3) provides the first comprehensive review of fifty years of synthetic aperture radar automatic target recognition (SAR ATR) development, tracing its evolution from inception to the present day.**
+**This [paper](https://ieeexplore.ieee.org/document/11676038) provides the first comprehensive review of fifty years of synthetic aperture radar automatic target recognition (SAR ATR) development, tracing its evolution from inception to the present day.**
 
 **********************************************************************************************************************
 在前沿‮技科‬飞速迭代的今天，我‮一们‬直在思考：如何让‮一每‬次雷达回波，都被读懂？这篇‮域领‬内时‮跨间‬度最长、覆盖范围‮广最‬的综述，是50余年追‮接问‬力中的一棒。
