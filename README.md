@@ -2,7 +2,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=JoyeZLearning&repo=SAR-ATR-From-Beginning-to-Present&label=Hello,%20Visitor%20&color=yellow&style=social)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present/pulls)
-[![Paper](https://img.shields.io/badge/Paper-IEEE-GRSM-2026-blue.svg)](https://ieeexplore.ieee.org/document/11676038)
+[![Paper](https://img.shields.io/badge/Paper-GRSM2026-blue.svg)](https://ieeexplore.ieee.org/document/11676038)
 
 # 😍 **Fifty Years of SAR Automatic Target Recognition: The Road Forward** (IEEE GRSM 2026)
 **SAR 自动目标识别五十年求索与新途**
