@@ -63,7 +63,7 @@ Fig. 4: **(a) Definition of SAR ATR.** It encompasses two key stages: detection,
 
 **************************************************************************************************************************
 
-### For more details, kindly refer to our [paper](https://arxiv.org/pdf/2509.22159v2). 
+### For more details, kindly refer to our [paper](https://ieeexplore.ieee.org/document/11676038). 
 
 
 ## :books: Citation 
