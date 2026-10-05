@@ -4,12 +4,12 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present/pulls)
 [![Paper](https://img.shields.io/badge/Paper-GRSM2026-blue.svg)](https://ieeexplore.ieee.org/document/11676038)
 
-#  **Fifty Years of SAR Automatic Target Recognition: The Road Forward** (IEEE GRSM 2026)
+# 😍 **Fifty Years of SAR Automatic Target Recognition: The Road Forward** (IEEE GRSM 2026)
 # **SAR 自动目标识别五十年求索与新途**
  
 **[Jie Zhou](https://scholar.google.com/citations?hl=zh-CN&user=IBHODOcAAAAJ)**, **[Yongxiang Liu](https://scholar.google.com/citations?user=a9tTHSEAAAAJ&hl=zh-CN)**, **[Li Liu](https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en)**, **[Weijie Li](https://scholar.google.com/citations?hl=zh-CN&user=YqgOTXMAAAAJ)**, **Taoli Yang**, **[Bowen Peng](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=I8QD_w0AAAAJ)**, **Yafei Song**, **Gangyao Kuang**, **Xiang Li***
 
-**周洁, 刘永祥, 刘丽, 李玮杰, 杨桃丽, 彭渤文, 宋娅菲, 匡纲要, 黎湘**
+
 
 **This [paper](https://ieeexplore.ieee.org/document/11676038) provides the first comprehensive review of fifty years of synthetic aperture radar automatic target recognition (SAR ATR) development, tracing its evolution from inception to the present day.**
 
