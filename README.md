@@ -1,4 +1,4 @@
-<img width="5559" height="1851" alt="image" src="https://github.com/user-attachments/assets/0a1b5803-cce0-417f-8261-feea7f6cece8" />[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present)
 ![Visitors](https://komarev.com/ghpvc/?username=JoyeZLearning&repo=SAR-ATR-From-Beginning-to-Present&label=Hello,%20Visitor%20&color=yellow&style=social)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/JoyeZLearning/SAR-ATR-From-Beginning-to-Present/pulls)
